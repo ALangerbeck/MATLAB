@@ -1,0 +1,1 @@
+Pe=61.6e9; %Wf=50; %Hzwnom=2*pi*f  %rad/sPDC=600e6;Pref=Pe-PDCfref=f;Pt=Pe-PDCPonline=1.2*PtH=3.6;J=Ponline*H/(wnom^2/2) % kgmD=Pe/fdeltaf1=PDC/DK=8e7;R=20e9; %20 000 MW/Hz%deltaf2=PDC/Rfrekvens
